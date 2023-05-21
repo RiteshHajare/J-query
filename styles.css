@@ -1,0 +1,16 @@
+.big-title{
+  font-size: 4rem;
+  color: blue;
+  font-family: cursive;
+
+}
+
+button{
+  padding: 0.7rem 1.5rem;
+  border-radius: 1.5rem;
+  background-color: aquamarine;
+  cursor: pointer;
+  display: block;
+  border: none;
+  margin: 2rem;
+}
